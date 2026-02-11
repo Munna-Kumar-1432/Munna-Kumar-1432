@@ -108,25 +108,6 @@ When I'm not orchestrating code, I'm usually:
 
 <hr/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Munna-Kumar-1432&show_icons=true&theme=dark&title_color=00FF9D&icon_color=00FF9D88&text_color=ffffff&bg_color=0d1117" height="170" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munna-Kumar-1432&layout=compact&theme=dark&title_color=00FF9D&text_color=ffffff&bg_color=0d1117" height="170" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Munna-Kumar-1432&theme=radical&hide_border=true&background=0d1117&stroke=00FF9D&ring=00FF9D&fire=00FF9D" height="170" alt="GitHub Streak" />
-</div>
-
-<hr/>
-
 ## 🎯 Coding Profiles
 
 <div align="center">
