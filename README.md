@@ -108,28 +108,6 @@ When I'm not orchestrating code, I'm usually:
 
 <hr/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-### 📈 Activity Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Munna-Kumar-1432&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Munna-Kumar-1432&layout=compact&theme=radical)
-
-<br/>
-
-### 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Munna-Kumar-1432&theme=radical)
-
-<br/>
-
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Munna-Kumar-1432&theme=radical)
-
-</div>
-
-<hr/>
-
 ## 🎯 Coding Profiles
 
 <div align="center">
