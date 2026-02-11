@@ -111,22 +111,21 @@ When I'm not orchestrating code, I'm usually:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Munna-Kumar-1432&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF9D&icon_color=00FF9D&text_color=ffffff" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munna-Kumar-1432&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF9D&text_color=ffffff" />
-  </p>
 
-  <br/><br/>
+### 📈 Activity Overview
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Munna-Kumar-1432&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Munna-Kumar-1432&layout=compact&theme=radical)
 
-  <h3>🔥 Streak Stats</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Munna-Kumar-1432&theme=radical&hide_border=true&background=0d1117&stroke=00FF9D&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D" />
+<br/>
 
-  <br/><br/>
+### 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Munna-Kumar-1432&theme=radical)
 
-  <p align="center">
-    <h3>🏆 GitHub Trophies</h3>
-    <img src="https://github-profile-trophy.vercel.app/?username=Munna-Kumar-1432&theme=radical&no-frame=false&margin-w=15&margin-h=15" />
-  </p>
+<br/>
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Munna-Kumar-1432&theme=radical)
+
 </div>
 
 <hr/>
