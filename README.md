@@ -111,10 +111,18 @@ When I'm not orchestrating code, I'm usually:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Munna-Kumar-1432&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF9D&icon_color=00FF9D&text_color=ffffff" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munna-Kumar-1432&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF9D&text_color=ffffff" height="170" />
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Munna-Kumar-1432&show_icons=true&theme=dark&title_color=00FF9D&icon_color=00FF9D88&text_color=ffffff&bg_color=0d1117" height="170" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munna-Kumar-1432&layout=compact&theme=dark&title_color=00FF9D&text_color=ffffff&bg_color=0d1117" height="170" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Munna-Kumar-1432&theme=radical&hide_border=true&background=0d1117&stroke=00FF9D&ring=00FF9D&fire=00FF9D" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Munna-Kumar-1432&theme=radical&hide_border=true&background=0d1117&stroke=00FF9D&ring=00FF9D&fire=00FF9D" height="170" alt="GitHub Streak" />
 </div>
 
 <hr/>
@@ -135,16 +143,16 @@ When I'm not orchestrating code, I'm usually:
 ### 🚀 Full-Stack Applications
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **NexusCore eStore** | React, Node.js, MongoDB, Redis | A high-performance, distributed e-commerce engine with real-time inventory. |
-| **Syncronize AI** | Next.js, NestJS, PostgreSQL, Docker | Intelligent project orchestration platform with automated task prioritization. |
-| **Orbit Messenger** | Socket.io, React, Express, MongoDB | Low-latency, end-to-end encrypted real-time communication suite. |
+| **AetherCart** | React, Node.js, MongoDB, Redis | A lightning-fast e-commerce engine with real-time sync and modular architecture. |
+| **TitanFlow AI** | Next.js, NestJS, PostgreSQL, Docker | Next-gen project orchestration with automated intelligence and deep-insights. |
+| **Spectral Chat** | Socket.io, React, Express, MongoDB | Ultra-secure, low-latency communication suite with end-to-end encryption. |
 
 ### 📊 Data Science Projects
 | Project | Tools | Description |
 | :--- | :--- | :--- |
-| **Prevision AI** | Python, Scikit-learn, Flask | Advanced predictive modeling for enterprise-grade sales intelligence. |
-| **PersonaLens** | Pandas, K-means, Matplotlib | Data-driven behavioral clustering for micro-target marketing strategies. |
-| **QuantVantage** | Streamlit, yFinance, Plotly | Real-time quantitative financial analysis and visualization dashboard. |
+| **InsightFlow ML** | Python, Scikit-learn, Flask | High-precision predictive engine for enterprise-scale decision support. |
+| **PersonaLens** | Pandas, K-means, Matplotlib | Deep behavioral analytics for multi-dimensional customer segmentation. |
+| **FinPulse Dashboard** | Streamlit, yFinance, Plotly | Advanced quantitative analysis tool for real-time market sentiment and trends. |
 
 <hr/>
 
