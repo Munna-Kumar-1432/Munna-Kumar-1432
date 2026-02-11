@@ -18,8 +18,8 @@
 <br/>
 
 <!-- VISITOR STATS -->
-![](https://komarev.com/ghpvc/?username=Munna-Kumar-1432&color=00FF9D&style=flat-square&label=%F0%9F%91%81%EF%B8%8F+PROFILE+VIEWS)
-![](https://img.shields.io/github/followers/Munna-Kumar-1432?color=9C27B0&label=%F0%9F%90%99+GITHUB+FOLLOWERS&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Munna-Kumar-1432&color=00FF9D&style=for-the-badge&label=%F0%9F%91%81%EF%B8%8F+PROFILE+VIEWS)
+![](https://img.shields.io/github/followers/Munna-Kumar-1432?color=9C27B0&label=%F0%9F%90%99+GITHUB+FOLLOWERS&style=for-the-badge)
 
 </div>
 
@@ -108,6 +108,17 @@ When I'm not orchestrating code, I'm usually:
 
 <hr/>
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Munna-Kumar-1432&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF9D&icon_color=00FF9D&text_color=ffffff" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munna-Kumar-1432&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF9D&text_color=ffffff" height="170" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Munna-Kumar-1432&theme=radical&hide_border=true&background=0d1117&stroke=00FF9D&ring=00FF9D&fire=00FF9D" height="170" />
+</div>
+
+<hr/>
+
 ## 🎯 Coding Profiles
 
 <div align="center">
@@ -124,16 +135,16 @@ When I'm not orchestrating code, I'm usually:
 ### 🚀 Full-Stack Applications
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **E-Commerce Platform** | React, Node.js, MongoDB, Redis | Scalable e-commerce with real-time inventory management. |
-| **Task Management SaaS** | Next.js, NestJS, PostgreSQL, Docker | Collaborative task management with AI suggestions. |
-| **Real-time Chat App** | Socket.io, React, Express, MongoDB | Feature-rich messaging platform with media sharing. |
+| **NexusCore eStore** | React, Node.js, MongoDB, Redis | A high-performance, distributed e-commerce engine with real-time inventory. |
+| **Syncronize AI** | Next.js, NestJS, PostgreSQL, Docker | Intelligent project orchestration platform with automated task prioritization. |
+| **Orbit Messenger** | Socket.io, React, Express, MongoDB | Low-latency, end-to-end encrypted real-time communication suite. |
 
 ### 📊 Data Science Projects
 | Project | Tools | Description |
 | :--- | :--- | :--- |
-| **Sales Prediction ML** | Python, Scikit-learn, Flask | Machine learning model for accurate sales forecasting. |
-| **Customer Segmentation** | Pandas, K-means, Matplotlib | Customer clustering for data-driven targeted marketing. |
-| **Stock Analysis Dashboard** | Streamlit, yFinance, Plotly | Real-time stock data visualization and analysis tool. |
+| **Prevision AI** | Python, Scikit-learn, Flask | Advanced predictive modeling for enterprise-grade sales intelligence. |
+| **PersonaLens** | Pandas, K-means, Matplotlib | Data-driven behavioral clustering for micro-target marketing strategies. |
+| **QuantVantage** | Streamlit, yFinance, Plotly | Real-time quantitative financial analysis and visualization dashboard. |
 
 <hr/>
 
