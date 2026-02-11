@@ -1,19 +1,21 @@
-<div align="center">
+<div align="center"><!-- BANNER IMAGE -->
 https://raw.githubusercontent.com/Munna-Kumar-1432/Munna-Kumar-1432/main/banner.gif
 
 🚀 Code Craftsman • 🧠 Problem Solver • 📊 Data Alchemist • 🌱 Lifelong Learner
 
+<!-- BADGES/LINKS -->
 https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white
 https://img.shields.io/badge/%F0%9F%93%A7_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
 https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 https://img.shields.io/badge/%E2%9A%A1_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black
 
+<!-- STATS BADGES -->
 https://komarev.com/ghpvc/?username=Munna-Kumar-1432&color=00FF9D&style=flat-square&label=%F0%9F%91%81%EF%B8%8F+PROFILE+VIEWS
 https://img.shields.io/github/followers/Munna-Kumar-1432?color=9C27B0&label=%F0%9F%90%99+GITHUB+FOLLOWERS&style=flat-square
 
 </div>
 🔥 About Me
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&height=30&lines=Building+the+Future%2C+One+Line+of+Code+at+a+Time;Transforming+Data+into+Decisions;Full-Stack+Developer+with+Data+Science+Powers;Always+Exploring+New+Technologies" alt="Typing Animation" /> </p>
+<p align="center"> <!-- TYPING ANIMATION --> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&height=30&lines=Building+the+Future%2C+One+Line+of+Code+at+a+Time;Transforming+Data+into+Decisions;Full-Stack+Developer+with+Data+Science+Powers;Always+Exploring+New+Technologies" alt="Typing Animation" /> </p>
 I'm a passionate Full-Stack Developer and Data Scientist who thrives at the intersection of scalable applications and intelligent data systems. With a strong foundation in Data Structures & Algorithms, I architect solutions that are both efficient and elegant. When I'm not coding, you'll find me contributing to open-source, learning about system design, or experimenting with the latest AI tools.
 
 💡 Philosophy: "Code should not only work but tell a story of efficient problem-solving."
