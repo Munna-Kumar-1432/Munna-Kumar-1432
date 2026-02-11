@@ -53,7 +53,6 @@ When I'm not orchestrating code, I'm usually:
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 
 ### 🎨 Frontend Development
@@ -113,8 +112,8 @@ When I'm not orchestrating code, I'm usually:
 
 <div align="center">
   <h3>📈 Activity Overview</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Munna-Kumar-1432&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF9D&icon_color=00FF9D&text_color=ffffff" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munna-Kumar-1432&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF9D&text_color=ffffff" height="180em" />
+  [![](https://github-readme-stats.vercel.app/api?username=Munna-Kumar-1432&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF9D&icon_color=00FF9D&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+  [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Munna-Kumar-1432&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF9D&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
   <br/><br/>
 
@@ -124,7 +123,7 @@ When I'm not orchestrating code, I'm usually:
   <br/><br/>
 
   <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=Munna-Kumar-1432&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+  [![](https://github-profile-trophy.vercel.app/?username=Munna-Kumar-1432&theme=dracula&no-frame=false&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 <hr/>
