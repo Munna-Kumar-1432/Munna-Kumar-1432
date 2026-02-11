@@ -111,9 +111,10 @@ When I'm not orchestrating code, I'm usually:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <h3>📈 Activity Overview</h3>
-  [![](https://github-readme-stats.vercel.app/api?username=Munna-Kumar-1432&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF9D&icon_color=00FF9D&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
-  [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Munna-Kumar-1432&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF9D&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Munna-Kumar-1432&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF9D&icon_color=00FF9D&text_color=ffffff" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munna-Kumar-1432&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF9D&text_color=ffffff" />
+  </p>
 
   <br/><br/>
 
@@ -122,8 +123,10 @@ When I'm not orchestrating code, I'm usually:
 
   <br/><br/>
 
-  <h3>🏆 GitHub Trophies</h3>
-  [![](https://github-profile-trophy.vercel.app/?username=Munna-Kumar-1432&theme=dracula&no-frame=false&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+  <p align="center">
+    <h3>🏆 GitHub Trophies</h3>
+    <img src="https://github-profile-trophy.vercel.app/?username=Munna-Kumar-1432&theme=radical&no-frame=false&margin-w=15&margin-h=15" />
+  </p>
 </div>
 
 <hr/>
