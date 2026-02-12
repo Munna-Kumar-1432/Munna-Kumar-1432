@@ -17,17 +17,23 @@
 
 <br/>
 
-<!-- GITHUB STATS & CARDS -->
+<!-- GITHUB TROPHIES -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Munna-Kumar-1432&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D&text_color=ffffff" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munna-Kumar-1432&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=ffffff" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Munna-Kumar-1432&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF9D&icon_color=00FF9D&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munna-Kumar-1432&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF9D&text_color=ffffff" alt="Top Languages" />
 </div>
 
 <br/>
 
-<!-- STREAK & TROPHIES -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Munna-Kumar-1432&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF9D&ring=00FF9D&fire=00FF9D&currStreakNum=00FF9D" alt="GitHub Streak" height="180px" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Munna-Kumar-1432&theme=tokyonight&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<!-- STREAK STATS -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Munna-Kumar-1432&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF9D&ring=00FF9D&fire=00FF9D&currStreakNum=00FF9D" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -87,7 +93,7 @@ When I'm not orchestrating code, I'm usually:
 ### 📊 Data Science & ML
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pandas,numpy,sklearn,tensorflow,pytorch" />
+    <img src="https://skillicons.dev/icons?i=py,pandas,numpy,sklearn,tensorflow,pytorch&theme=dark" />
   </a>
 </p>
 
@@ -130,9 +136,9 @@ graph LR
 
 <div align="center">
   <h3>💪 Problem Solving Skills</h3>
-  <img src="https://img.shields.io/badge/Data_Structures-Expert-00FF9D?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Algorithms-Advanced-9C27B0?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/System_Design-Intermediate-2196F3?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Structures-Expert-00FF9D?style=for-the-badge&logo=data-structures&logoColor=black" />
+  <img src="https://img.shields.io/badge/Algorithms-Advanced-BC13FE?style=for-the-badge&logo=algorithm&logoColor=white" />
+  <img src="https://img.shields.io/badge/System_Design-Intermediate-2196F3?style=for-the-badge&logo=system-design&logoColor=white" />
 </div>
 
 <hr/>
