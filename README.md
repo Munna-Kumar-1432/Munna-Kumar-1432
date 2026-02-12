@@ -17,20 +17,6 @@
 
 <br/>
 
-<!-- GITHUB STATS -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Munna-Kumar-1432&show_icons=true&theme=dark&title_color=00FF9D&icon_color=00FF9D&text_color=ffffff" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munna-Kumar-1432&layout=compact&theme=dark&title_color=00FF9D&text_color=ffffff" alt="Top Languages" />
-</div>
-
-<br/>
-
-<!-- GITHUB TROPHIES -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Munna-Kumar-1432&theme=dark&no-bg=true" alt="GitHub Trophies" />
-</div>
-
-<br/>
 
 <!-- STREAK STATS -->
 <div align="center">
