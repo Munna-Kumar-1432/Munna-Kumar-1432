@@ -17,23 +17,24 @@
 
 <br/>
 
-<!-- GITHUB TROPHIES -->
+<!-- GITHUB STATS -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Munna-Kumar-1432&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF9D&icon_color=00FF9D&text_color=ffffff" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munna-Kumar-1432&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF9D&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Munna-Kumar-1432&show_icons=true&theme=dark&title_color=00FF9D&icon_color=00FF9D&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munna-Kumar-1432&layout=compact&theme=dark&title_color=00FF9D&text_color=ffffff" alt="Top Languages" />
 </div>
 
 <br/>
 
+<!-- GITHUB TROPHIES -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Munna-Kumar-1432&theme=tokyonight&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Munna-Kumar-1432&theme=dark&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 <br/>
 
 <!-- STREAK STATS -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Munna-Kumar-1432&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF9D&ring=00FF9D&fire=00FF9D&currStreakNum=00FF9D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Munna-Kumar-1432&theme=dark&background=0D1117&stroke=00FF9D&ring=00FF9D&fire=00FF9D&currStreakNum=00FF9D" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -93,7 +94,7 @@ When I'm not orchestrating code, I'm usually:
 ### 📊 Data Science & ML
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pandas,numpy,sklearn,tensorflow,pytorch&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,linux,git" />
   </a>
 </p>
 
